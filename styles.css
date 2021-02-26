@@ -1,0 +1,30 @@
+.text{
+    padding: 0 20px;
+    color: rgb(3, 112, 106);
+  }
+  
+  body{
+    max-width: 1024px;
+    padding: 20px;
+    color: rgb(3, 78, 71);
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .photo {
+    border-radius: 5%;
+    object-fit: cover;
+    float: right;
+    height: 150px;
+    width:150px;
+    border: 2px solid #7b94b5;
+     }
+  
+  h1{
+    font-size: 50px; 
+    text-align:center;
+    }
+  
+  .ss{
+    font-size: 13px;
+    color: rgb(47, 200, 173);
+  }
