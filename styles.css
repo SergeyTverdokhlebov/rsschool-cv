@@ -6,7 +6,7 @@
   body{
     max-width: 1024px;
     padding: 20px;
-    color: rgb(3, 78, 71);
+    color: rgb(2, 58, 52);
     font-family: 'Poppins', sans-serif;
   }
   
@@ -14,7 +14,7 @@
     border-radius: 5%;
     object-fit: cover;
     float: right;
-    height: 150px;
+    height: 200px;
     width:150px;
     border: 2px solid #7b94b5;
      }
